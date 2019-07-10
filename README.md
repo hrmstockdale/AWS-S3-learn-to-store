@@ -1,5 +1,8 @@
 # AWS-S3-learn-to-store
-S3 for the first time using Node.js SDK
+
+
+S3
+Node SDK
 
 **contents**
 
@@ -11,12 +14,11 @@ S3 for the first time using Node.js SDK
 
 - How to create an Amazon S3 bucket and upload an object to that bucket.
 
+
 ![AWS](https://media.giphy.com/media/zWyv9xtsEfXQQ/giphy.gif)
 
 # Why?
 
-
 # How?
-
 
 # Important lessons learnt
