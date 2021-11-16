@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/hrmstockdale/AWS-S3-learn-to-store#readme",
   "dependencies": {
-    "aws-sdk": "^2.489.0"
+    "aws-sdk": "^2.814.0"
   }
 }
